@@ -1,0 +1,6 @@
+Id :Name :Contact :City
+1,sanjay,03337221119,karachi
+80,manav,789456123,khairpur
+70,sundas,123456789,karachi
+90,deepika,987456112,ghotki
+82,mohan,987456321,sukkur

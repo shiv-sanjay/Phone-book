@@ -1,0 +1,6 @@
+Id :Name :Contact :City
+86,shiv,789654123,ghotk
+85,mohanlal,852147963,sukkur
+21,kirshan,033789456123,sukkur
+15,krishan,03987456321,ghotki
+71,sanjay,032145698700,ghotki

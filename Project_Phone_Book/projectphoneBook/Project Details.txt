@@ -1,0 +1,22 @@
+							Project Phone Book Directory 
+
+
+Presented By:-
+
+Shiv Sanjay - Cs221234
+
+Phone-Book-Application DISCRIPTION.
+
+As we all use cellphones. It is very hard for us to remember all the contacts of our colleagues. 
+Therefore we save the contacts permanently for future use and sometimes we also delete some useless contacts. 
+Suppose we are in hurry and want to call one of our friend then we directly search the contact by his full name or initials rather than scrolling down for searching 
+that contact. 
+So, keeping in view all these things i have made a phonebook application which consists of several methods like 
+
+->inserting a contact, 
+->deleting  
+->displaying 
+->searching with initials 
+-> Update a contact
+->Display Past Contact
+->Exit 
